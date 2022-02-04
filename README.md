@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pulkit-Sinha
-- 👀 I’m interested in App Dev and Game Dev
-- 🌱 I’m currently learning Flutter and Unity
+- 👀 I’m interested in App Dev, Web Dev and Game Dev
+- 🌱 I’m currently learning Flutter, React, Node js and Unity
 - 💞️ I’m looking to collaborate on nothing as of now.
 - 📫 How to reach me ... at aryantopulkit2@gmail.com
 
