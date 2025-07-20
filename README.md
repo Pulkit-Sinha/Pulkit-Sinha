@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Pulkit-Sinha
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Flutter and Unity
-- 📫 How to reach me ... at f20201678@pilani.bits-pilani.ac.in
+- Currently a full stack developer at AlphaSense with 1 year of experience. 
 
 <!---
 Pulkit-Sinha/Pulkit-Sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
