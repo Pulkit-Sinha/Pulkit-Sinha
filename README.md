@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pulkit-Sinha!
-- Full stack developer at AlphaSense (since July 2024)
-- Interned at Amazon for 6 months before this
-- Bachelor of Engineering in Computer Science from BITS Pilani (Pilani Campus)
-- Experienced with Python, FastAPI, React, NextJS, C++, Flutter, Java. 
+- Founding Engineer at Armatrix
+- Heading development of customer software
+- Ex-AlphaSense, ex-Amazon
+- CS Major from BITS Pilani, Pilani Campus (grad. 2024)
 
 <!---
 Pulkit-Sinha/Pulkit-Sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
